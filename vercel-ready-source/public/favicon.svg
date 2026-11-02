@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="pinkGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B97"/>
+      <stop offset="100%" stop-color="#E56B9F"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#pinkGrad)" d="M50 88.9L16.7 55.6C7.6 46.5 7.6 31.7 16.7 22.6 25.8 13.5 40.6 13.5 49.7 22.6L50 22.9l.3-.3c9.1-9.1 23.9-9.1 33 0 9.1 9.1 9.1 23.9 0 33L50 88.9z"/>
+</svg>
